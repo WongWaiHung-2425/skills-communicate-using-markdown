@@ -17,3 +17,7 @@ Photo licensed under CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
 ``` 
 print("Hello world!")
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
