@@ -5,3 +5,10 @@
 ###### This is an `<h6>` header, which is the smallest
 
 One `#` for h1, two `#` for h2 ... till 6 `#` for h6
+
+
+![Stearman biplane](Stearman_N62188.jpg)
+
+by Mega Breadvan 
+
+Photo licensed under CC BY 2.0 
