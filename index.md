@@ -11,4 +11,9 @@ One `#` for h1, two `#` for h2 ... till 6 `#` for h6
 
 by Mega Breadvan 
 
-Photo licensed under CC BY 2.0 
+Photo licensed under CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
+
+### Sample hello world
+``` 
+print("Hello world!")
+```
